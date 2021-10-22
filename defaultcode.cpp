@@ -12,7 +12,7 @@ using namespace std;
 #define SZZ(a, begin, end) a + begin, a + begin + end
 #define fi first
 #define se second
-#define BIT(n) (1 << n)
+#define BIT(n) (1LL << (n))
 
 /// typedef-zone
 typedef long long ll;
